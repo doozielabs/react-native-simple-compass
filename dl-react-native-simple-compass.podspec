@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
 
 	# ―――  Spec Metadata  ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   
-	s.name         = "react-native-simple-compass"
+	s.name         = "dl-react-native-simple-compass"
 	s.version      = "1.0.0"
 	s.summary      = "Simple module exposing the compass on iOS and Android"
 	s.description  = <<-DESC
